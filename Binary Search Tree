@@ -1,0 +1,13 @@
+[7,5,1,8,3,6,0,9,4,2]
+root = 3
+              3                         root 3 seçilmiştir.
+            /    \
+           1       4                    3>1, 1 sola yazılır. 4>3, 4 sağa yazılır.
+                 /   \
+                0      6                4>0, 0 sola yazılır. 6>4, 6 sağa yazılır.
+                      /  \
+                     5     8            6>5, 5 sola yazılır. 8>6, 8 sağa yazılır.
+                          /  \
+                         2    9         8>2, 2 sola yazılır. 9>8, 9 sağa yazılır.
+                            /
+                           7            9>7, 7 sola yazılır.
